@@ -1,0 +1,9 @@
+# 密钥绝不入库
+llm_key.txt
+
+# 记忆文件是个人聊天数据，不进仓库
+memory/
+
+# Python 缓存
+__pycache__/
+*.pyc
